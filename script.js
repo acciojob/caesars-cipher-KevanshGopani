@@ -31,7 +31,7 @@ const lookup = {
   ",": ",",
 };
 
-function rot13(str) {
+function rot13(encodedStr) {
   let decodedArr = []; // Your Result goes here
   // Only change code below this line
 
